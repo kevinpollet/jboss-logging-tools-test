@@ -18,11 +18,9 @@
  *  Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA, or see the FSF
  *  site: http://www.fsf.org.
  */
-
 package org.jboss.logging.test;
 
 /**
- *
  * @author James R. Perkins (jrp)
  */
 public class NoConstructException extends Exception {

@@ -18,7 +18,6 @@
  *  Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA, or see the FSF
  *  site: http://www.fsf.org.
  */
-
 package org.jboss.logging.test;
 
 import org.jboss.logging.LogMessage;
@@ -27,7 +26,6 @@ import org.jboss.logging.Message;
 import org.jboss.logging.MessageLogger;
 
 /**
- *
  * @author James R. Perkins (jrp)
  */
 @MessageLogger(projectCode = "LOGL")

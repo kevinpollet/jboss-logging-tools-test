@@ -26,7 +26,6 @@ import org.jboss.logging.Message;
 import org.jboss.logging.MessageLogger;
 
 /**
- *
  * @author James R. Perkins (jrp)
  */
 @MessageLogger(projectCode = "LOGL")
