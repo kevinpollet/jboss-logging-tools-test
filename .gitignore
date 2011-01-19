@@ -1,0 +1,15 @@
+#Ignore MacOS file
+.DS_Store/
+
+#Ignore Maven folder
+target/
+
+#Ignore IntelliJ files
+*.iws
+*.ipr
+*.iml
+
+#Ignore Eclipse files
+.classpath
+.project
+.settings/
