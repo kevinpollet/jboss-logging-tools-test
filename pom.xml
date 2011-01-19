@@ -35,8 +35,22 @@
 
     <groupId>org.jboss.logging.test</groupId>
     <artifactId>tools-test</artifactId>
-    <name>JBoss Logging I18n Tools Test Module</name>
     <version>1.0.0-SNAPSHOT</version>
+
+    <name>JBoss Logging Tools Test Project</name>
+    <description>This project is just for JBoss Logging Tools project test purpose</description>
+
+    <developers>
+        <developer>
+            <name>James R. Perkins</name>
+            <email>jrperkinsjr@gmail.com</email>
+        </developer>
+        <developer>
+            <name>Kevin Pollet</name>
+            <organization>Serli</organization>
+            <email>kevin.pollet@serli.com</email>
+        </developer>
+    </developers>
 
     <properties>
         <jbossLoggingVersion>3.0.0.Beta4</jbossLoggingVersion>
