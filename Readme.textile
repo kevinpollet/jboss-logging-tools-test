@@ -1,0 +1,3 @@
+h1. This project is just for jboss-logging-tools project testing purpose
+
+You can find the jboss-logging-tools project "here":https://github.com/jamezp/jboss-logging-tools.
